@@ -74,3 +74,17 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
     </a>
 </p>
+
+<h1 align="center">GitHub Stats 📊</h1>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mazeor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazeor&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazeor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
