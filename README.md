@@ -5,7 +5,6 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Fullstack+Developer">
-    <h3 align="center">I'm a fullstack developer</h3>
 </p>
 
 <!-- Technos -->
